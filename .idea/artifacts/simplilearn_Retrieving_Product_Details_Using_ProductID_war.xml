@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="simplilearn_Retrieving_Product_Details_Using_ProductID:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>simplilearn_Retrieving_Product_Details_Using_ProductID</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="simplilearn_Retrieving_Product_Details_Using_ProductID-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="simplilearn_Retrieving_Product_Details_Using_ProductID:war exploded" />
+    </root>
+  </artifact>
+</component>

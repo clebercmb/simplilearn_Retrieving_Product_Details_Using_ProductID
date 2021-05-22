@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="simplilearn_Retrieving_Product_Details_Using_ProductID:war exploded">
+    <output-path>$PROJECT_DIR$/target/simplilearn_Retrieving_Product_Details_Using_ProductID-1.0-SNAPSHOT</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>simplilearn_Retrieving_Product_Details_Using_ProductID</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="simplilearn_Retrieving_Product_Details_Using_ProductID" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/simplilearn_Retrieving_Product_Details_Using_ProductID-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="simplilearn_Retrieving_Product_Details_Using_ProductID/web/Web" />
+    </root>
+  </artifact>
+</component>
